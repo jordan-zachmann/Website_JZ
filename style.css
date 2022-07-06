@@ -1,0 +1,12 @@
+a:hover {
+    text-decoration: underline;
+}
+
+a, a:visited, a:active {
+    text-decoration: none;
+    color: blue;
+}
+
+h1 {
+    color: lightblue;
+}
