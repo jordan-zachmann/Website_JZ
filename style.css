@@ -8,5 +8,13 @@ a, a:visited, a:active {
 }
 
 h1 {
-    color: lightblue;
+    color: ghostwhite;
+}
+
+h2 {
+
+}
+
+body {
+    background: lightslategray;
 }
